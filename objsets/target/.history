@@ -1,0 +1,9 @@
+submit kumar1993sumit15@gmail.com HEzhHCKCibJdUkS0
+submit kumar1993sumit15@gmail.com 6mQzmHfFqUEY0DS8
+submit kumar1993sumit15@gmail.com def append(t: Tweet): TweetList = {
+    if (isEmpty) new Cons(t, Nil)
+    else new Cons(head, tail.append(t))
+ submit kumar1993sumit15@gmail.com def append(t: Tweet): TweetList = {
+    if (isEmpty) new Cons(t, Nil)
+    else new Cons(head, tail.append(t))
+submit kumar1993sumit15@gmail.com zo90UPvpbGAVlT3x

@@ -1,0 +1,24 @@
+[0m[[0minfo[0m] [0m[32mAnagramsSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- wordOccurrences: abcd[0m[0m
+[0m[[0minfo[0m] [0m[32m- wordOccurrences: Robert[0m[0m
+[0m[[0minfo[0m] [0m[32m- sentenceOccurrences: abcd e[0m[0m
+[0m[[0minfo[0m] [0m[32m- dictionaryByOccurrences.get: eat[0m[0m
+[0m[[0minfo[0m] [0m[32m- word anagrams: married[0m[0m
+[0m[[0minfo[0m] [0m[32m- word anagrams: player[0m[0m
+[0m[[0minfo[0m] [0m[32m- subtract: lard - r[0m[0m
+[0m[[0minfo[0m] [0m[32m- combinations: [][0m[0m
+[0m[[0minfo[0m] [0m[32m- combinations: abba[0m[0m
+[0m[[0minfo[0m] [0m[32m- sentence anagrams: [][0m[0m
+[0m[[0minfo[0m] [0m[31m- sentence anagrams: Linux rulez *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.util.NoSuchElementException: key not found: List()[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.MapLike$class.default(MapLike.scala:228)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.AbstractMap.default(Map.scala:59)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.MapLike$class.apply(MapLike.scala:141)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.AbstractMap.apply(Map.scala:59)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$$anonfun$forcomp$Anagrams$$sentenceHelper$1$1.apply(Anagrams.scala:156)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$$anonfun$forcomp$Anagrams$$sentenceHelper$1$1.apply(Anagrams.scala:155)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.collection.immutable.List.flatMap(List.scala:327)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.forcomp$Anagrams$$sentenceHelper$1(Anagrams.scala:155)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.sentenceAnagrams(Anagrams.scala:159)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$11.apply$mcV$sp(AnagramsSuite.scala:100)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
